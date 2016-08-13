@@ -1,0 +1,31 @@
+.footer {
+  height: 30px;
+  width: 100%;
+  background-color: rgba(31, 48, 61, 0.4);
+  position: absolute;
+  bottom: 0;
+  ul {
+    text-align: center;
+    margin: 0;
+    font-size: 0.7em;
+    line-height: 30px;
+    color: white;
+    a {
+      padding: 0 10px;
+      opacity: 0.3;
+      transition: all 0.2s ease-in-out;
+      user-select: none;
+      text-decoration: none;
+      color: white;
+      &:hover {
+        opacity: 0.8;
+        border-top: 2px solid $mainBlue;
+        cursor: pointer;
+      }
+
+      li {
+        display: inline;
+      }
+    }
+  }
+}
