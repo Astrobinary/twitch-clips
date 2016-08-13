@@ -61,8 +61,8 @@ nav {
     }
     .inputBox {
       flex-grow: 3;
-    flex-basis: 10em;
-    flex-shrink: 5;
+      flex-basis: 10em;
+      flex-shrink: 5;
       .svgIcon {
         width: 17px;
         display: inline-flex;
@@ -96,14 +96,11 @@ nav {
     }
   }
 }
-
-
 @media screen and (max-width: 765px) {
   .inputBox {
     display: none;
   }
 }
-
 @media screen and (max-width: 765px) {
   button {
     display: none;

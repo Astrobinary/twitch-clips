@@ -39,6 +39,7 @@ function App(props) {
 App.propTypes = {
   children: React.PropTypes.node,
   dispatch: React.PropTypes.func,
+  location: React.PropTypes.object,
 };
 
 

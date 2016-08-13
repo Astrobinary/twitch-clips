@@ -1,7 +1,7 @@
 {
   "name": "twitch-clips",
   "version": "0.0.2",
-  "description": "A highly scalable, offline-first foundation site where views can watch clips from twitch.tv",
+  "description": "A highly scalable, offline-first foundation where viewers can watch clips from twitch.tv",
   "repository": {
     "type": "git",
     "url": "git://github.com/agnostics/twitch-clips.git"
