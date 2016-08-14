@@ -2,7 +2,7 @@
   height: 30px;
   width: 100%;
   background-color: rgba(31, 48, 61, 0.4);
-  position: absolute;
+  position: fixed;
   bottom: 0;
   ul {
     text-align: center;

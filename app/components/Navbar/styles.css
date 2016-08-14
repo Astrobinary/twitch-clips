@@ -28,7 +28,7 @@ nav {
       user-select: none;
     }
     .link {
-      border-right: 1px solid rgba(0, 0, 0, 0.1);
+      border-right: 1px solid rgba(0, 0, 0, 0.08);
       transition: all 0.1s ease;
       cursor: pointer;
       &:hover {
@@ -37,7 +37,7 @@ nav {
       }
     }
     .link_selected {
-      border-right: 1px solid rgba(0, 0, 0, 0.1);
+      border-right: 1px solid rgba(0, 0, 0, 0.08);
       transition: all 0.1s ease;
       border-bottom: 3px solid $mainPink;
       cursor: pointer;
