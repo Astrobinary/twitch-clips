@@ -50,6 +50,7 @@ nav {
       height: 50px;
       background-color: #0fa5a5;
       transition: all 0.2s ease-in-out;
+      cursor: pointer;
       &:hover {
         background-color: #13bcbc;
         cursor: pointer;

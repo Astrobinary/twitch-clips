@@ -22,10 +22,13 @@ export class Navbar extends React.Component {
   }
 
   render() {
+    const showVideo = () => {
+      this.props.dispatch(push('/video'));
+    };
     return (
       <nav>
         <ul className={styles.menu}>
-          <div className={styles.logo_container}onClick={this.changeRoute}>
+          <div className={styles.logo_container} onClick={showVideo}>
             <img className={styles.logo} src={logo} alt={'logo'} />
           </div>
           <div className={this.props.location === '/feed' ? styles.link_selected : styles.link} onClick={this.changeRoute}>feed</div>

@@ -55,6 +55,14 @@ export default function createRoutes(store) {
           .catch(errorLoading);
       },
     }, {
+      path: '/video',
+      name: 'videoPage',
+      getComponent(location, cb) {
+        System.import('containers/VideoPage')
+          .then(loadModule(cb))
+          .catch(errorLoading);
+      },
+    }, {
       path: '*',
       name: 'notfound',
       getComponent(nextState, cb) {
