@@ -4,6 +4,9 @@ import Helmet from 'react-helmet';
 import styles from './styles.css';
 
 import Video from 'components/Video';
+import Chat from 'components/Chat';
+import Streamer from 'components/Streamer';
+
 
 export class VideoPage extends React.Component { // eslint-disable-line react/prefer-stateless-function
   render() {
@@ -18,9 +21,8 @@ export class VideoPage extends React.Component { // eslint-disable-line react/pr
           <Video />
         </div>
         <div className={styles.chatContain}>
-          <div className={styles.chat}>
-            <div className={styles.title}>twitch chat</div>
-          </div>
+          <Chat />
+          <Streamer />
         </div>
 
       </div>
