@@ -12,7 +12,7 @@ class Video extends React.Component { // eslint-disable-line react/prefer-statel
     return (
       <div className={styles.video}>
 
-        <Clappr source="https://clips-media-assets.twitch.tv/22463232880-index-0000000743.mp4" />
+        <Clappr poster="https://clips-media-assets.twitch.tv/22497508896-index-0000001001-preview.jpg" source="https://clips-media-assets.twitch.tv/22497508896-index-0000001001.mp4" />
         <div className={styles.loadbar}></div>
         <div className={styles.videoTitle_contain}>
           <div className={styles.videoTitle}>Ok hi ppl @Sodapoppintv @Northern_GG</div>

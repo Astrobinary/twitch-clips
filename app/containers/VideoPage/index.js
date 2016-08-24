@@ -17,10 +17,11 @@ export class VideoPage extends React.Component { // eslint-disable-line react/pr
           meta={[{ name: 'description', content: 'Description of VideoPage' }]}
         />
 
-        <div className={styles.videoContain}>
+        <div id="clappr" className={styles.videoContain}>
           <Video />
         </div>
         <div className={styles.chatContain}>
+          <div className={styles.chatTitle}>twitch chat</div>
           <Chat />
           <Streamer />
         </div>

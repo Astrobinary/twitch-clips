@@ -1,12 +1,12 @@
 import React from 'react';
 import Clappr from 'clappr';
-
+import $ from 'jquery';
 
 class ClapprPlayer extends React.Component { // eslint-disable-line react/prefer-stateless-function
 
-
   componentDidMount() {
     this.change(this.props.source);
+    // this.change(this.props.poster);
   }
   shouldComponentUpdate(nextProps, nextState) {
     const changed = (nextProps.source !== this.props.source);
@@ -34,26 +34,15 @@ class ClapprPlayer extends React.Component { // eslint-disable-line react/prefer
     if (this.player) {
       this.destroyPlayer();
     }
+
     this.player = new Clappr.Player({
       parent: this.refs.player,
       source,
-      mediacontrol: {seekbar: "#E113D3", buttons: "#66B2FF"},
-      hideMediaControl: false,
+      poster: this.props.poster,
+      width: '100%',
+      height: '100%',
       autoPlay: true,
-
     });
-
-
-    function resizePlayer() {
-      const aspectRatio = 9/16,
-        newWidth = document.getElementById('player-wrapper').parentElement.offsetWidth,
-        newHeight = 2 * Math.round(newWidth * aspectRatio /2);
-      this.player.resize({ width: newWidth, height: newHeight });
-      }
-
-      resizePlayer();
-      window.onresize = resizePlayer;
-
   }
   render() {
     return (
@@ -66,6 +55,7 @@ class ClapprPlayer extends React.Component { // eslint-disable-line react/prefer
 
 ClapprPlayer.propTypes = {
   source: React.PropTypes.string,
+  poster: React.PropTypes.string,
 };
 
 export default ClapprPlayer;
