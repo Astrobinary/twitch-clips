@@ -1,39 +1,46 @@
-/**
- *
- * App.react.js
- *
- * This component is the skeleton around the actual pages, and should only
- * contain code that should be seen on all pages. (e.g. navigation bar)
- */
-
 import React from 'react';
 import { connect } from 'react-redux';
 import Helmet from 'react-helmet';
+import firebase from 'firebase/app';
+import 'firebase/database';
 
-// Import the CSS reset, which HtmlWebpackPlugin transfers to the build folder
 import 'sanitize.css/sanitize.css';
 import styles from './styles.css';
 
 import Footer from 'components/Footer';
 import Navbar from 'components/Navbar';
 
+const config = {
+  apiKey: 'AIzaSyCF8ldxMh8xvxwxs--ljoyFxlWi5YTDb08',
+  authDomain: 'clip-project-272f7.firebaseapp.com',
+  databaseURL: 'https://clip-project-272f7.firebaseio.com',
+  storageBucket: 'clip-project-272f7.appspot.com',
+};
 
-function App(props) {
-  const path = props.location.pathname;
-  return (
-    <div>
-      <div className={styles.wrapper}>
-        <Helmet
-          titleTemplate="%s - TwitchClips"
-          defaultTitle="TwitchClips"
-          meta={[{ name: 'description', content: 'Watch your favorite twitch clips' }]}
-        />
-        <Navbar location={path} />
-        {React.Children.toArray(props.children)}
+class App extends React.Component {
+
+  componentWillMount() {
+    firebase.initializeApp(config);
+  }
+
+  render() {
+    const path = this.props.location.pathname;
+    return (
+      <div>
+        <div className={styles.wrapper}>
+          <Helmet
+            titleTemplate="%s - TwitchClips"
+            defaultTitle="TwitchClips"
+            meta={[{ name: 'description', content: 'Watch your favorite twitch clips' }]}
+          />
+          <Navbar location={path} />
+          {React.Children.toArray(this.props.children)}
+        </div>
+        <Footer />
       </div>
-      <Footer />
-    </div>
-  );
+    );
+  }
+
 }
 
 App.propTypes = {

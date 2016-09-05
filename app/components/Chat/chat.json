@@ -1,757 +1,1550 @@
 {
-   "data":[
-      {
-         "type":"rechat-message",
-         "id":"chat-11-2016:AVOKd5M7c_tGncT9d9XJ",
-         "attributes":{
-            "command":"",
-            "room":"lirik",
-            "timestamp":1458316990187,
-            "deleted":false,
-            "message":"lirikFEELS this lirikFEELS used lirikFEELS to lirikFEELS be lirikFEELS a lirikFEELS Julia lirikFEELS stream lirikFEELS",
-            "from":"zubinator5861",
-            "tags":{
-               "color":"#008000",
-               "display-name":"zubinator5861",
-               "emotes":{
-                  "55507":[
-                     [
-                        0,
-                        9
-                     ],
-                     [
-                        16,
-                        25
-                     ],
-                     [
-                        32,
-                        41
-                     ],
-                     [
-                        46,
-                        55
-                     ],
-                     [
-                        60,
-                        69
-                     ],
-                     [
-                        73,
-                        82
-                     ],
-                     [
-                        90,
-                        99
-                     ],
-                     [
-                        108,
-                        117
-                     ]
-                  ]
-               },
-               "mod":false,
-               "room-id":"23161357",
-               "subscriber":true,
-               "turbo":false,
-               "user-id":"57321436",
-               "user-type":null
-            },
-            "color":"#008000"
-         },
-         "links":{
-            "self":"/rechat-message/chat-11-2016:AVOKd5M7c_tGncT9d9XJ"
-         }
+  "data": [{
+    "type": "rechat-message",
+    "id": "chat-30-2016:AVYgbeSCeGJLui5muGfy",
+    "attributes": {
+      "command": "",
+      "room": "c9sneaky",
+      "timestamp": 1469422873350,
+      "deleted": false,
+      "message": "LUL",
+      "from": "jarvis_mcgee",
+      "tags": {
+        "badges": "subscriber/1",
+        "color": "#0000FF",
+        "display-name": "Jarvis_McGee",
+        "emotes": null,
+        "id": "15d7f09c-94f7-4059-ad74-6713babe54d7",
+        "mod": false,
+        "room-id": "24538518",
+        "subscriber": true,
+        "turbo": false,
+        "user-id": "49029723",
+        "user-type": null
       },
-      {
-         "type":"rechat-message",
-         "id":"chat-11-2016:AVOKd5M7c_tGncT9d9Xg",
-         "attributes":{
-            "command":"",
-            "room":"lirik",
-            "timestamp":1458316990250,
-            "deleted":false,
-            "message":"run nymu! ... ok waddle nymu!!",
-            "from":"charlemagne420",
-            "tags":{
-               "color":"#5F9EA0",
-               "display-name":"charlemagne420",
-               "emotes":null,
-               "mod":false,
-               "room-id":"23161357",
-               "subscriber":true,
-               "turbo":false,
-               "user-id":"70053097",
-               "user-type":null
-            },
-            "color":"#5F9EA0"
-         },
-         "links":{
-            "self":"/rechat-message/chat-11-2016:AVOKd5M7c_tGncT9d9Xg"
-         }
+      "color": "#0000FF"
+    },
+    "links": {
+      "self": "/rechat-message/chat-30-2016:AVYgbeSCeGJLui5muGfy"
+    }
+  }, {
+    "type": "rechat-message",
+    "id": "chat-30-2016:AVYgbe1KysuRDN3fS4i4",
+    "attributes": {
+      "command": "",
+      "room": "c9sneaky",
+      "timestamp": 1469422874275,
+      "deleted": false,
+      "message": "KS'd 5 times in a row Keepo",
+      "from": "fiddlestickz44",
+      "tags": {
+        "badges": null,
+        "color": null,
+        "display-name": "FiddleStickz44",
+        "emotes": {
+          "1902": [
+            [22, 26]
+          ]
+        },
+        "id": "34d7ca5f-0db9-464b-b448-cb36b91a9bed",
+        "mod": false,
+        "room-id": "24538518",
+        "subscriber": false,
+        "turbo": false,
+        "user-id": "90666085",
+        "user-type": null
       },
-      {
-         "type":"rechat-message",
-         "id":"chat-11-2016:AVOKd50QUixFSgzqobdO",
-         "attributes":{
-            "command":"",
-            "room":"lirik",
-            "timestamp":1458316991799,
-            "deleted":false,
-            "message":"lirikHYPE",
-            "from":"virtualtreehouse",
-            "tags":{
-               "color":null,
-               "display-name":"Virtualtreehouse",
-               "emotes":{
-                  "50739":[
-                     [
-                        0,
-                        8
-                     ]
-                  ]
-               },
-               "mod":false,
-               "room-id":"23161357",
-               "subscriber":true,
-               "turbo":false,
-               "user-id":"91658902",
-               "user-type":null
-            },
-            "color":null
-         },
-         "links":{
-            "self":"/rechat-message/chat-11-2016:AVOKd50QUixFSgzqobdO"
-         }
+      "color": null
+    },
+    "links": {
+      "self": "/rechat-message/chat-30-2016:AVYgbe1KysuRDN3fS4i4"
+    }
+  }, {
+    "type": "rechat-message",
+    "id": "chat-30-2016:AVYgbe1KysuRDN3fS4mg",
+    "attributes": {
+      "command": "",
+      "room": "c9sneaky",
+      "timestamp": 1469422874817,
+      "deleted": false,
+      "message": "qtpPLS SneakyPls qtpPLS SneakyPls qtpPLS",
+      "from": "warlocksshadow",
+      "tags": {
+        "badges": null,
+        "color": "#1E90FF",
+        "display-name": "WarlocksShadow",
+        "emotes": null,
+        "id": "0c493b14-6b0e-46a2-855f-0d513f3fb639",
+        "mod": false,
+        "room-id": "24538518",
+        "subscriber": false,
+        "turbo": false,
+        "user-id": "59003833",
+        "user-type": null
       },
-      {
-         "type":"rechat-message",
-         "id":"chat-11-2016:AVOKd50QUixFSgzqobdY",
-         "attributes":{
-            "command":"",
-            "room":"lirik",
-            "timestamp":1458316991824,
-            "deleted":false,
-            "message":"lirikHYPE lirikHYPE",
-            "from":"xylov",
-            "tags":{
-               "color":"#311541",
-               "display-name":"Xylov",
-               "emotes":{
-                  "50739":[
-                     [
-                        0,
-                        8
-                     ],
-                     [
-                        10,
-                        18
-                     ]
-                  ]
-               },
-               "mod":false,
-               "room-id":"23161357",
-               "subscriber":true,
-               "turbo":false,
-               "user-id":"24702102",
-               "user-type":null
-            },
-            "color":"#311541"
-         },
-         "links":{
-            "self":"/rechat-message/chat-11-2016:AVOKd50QUixFSgzqobdY"
-         }
+      "color": "#1E90FF"
+    },
+    "links": {
+      "self": "/rechat-message/chat-30-2016:AVYgbe1KysuRDN3fS4mg"
+    }
+  }, {
+    "type": "rechat-message",
+    "id": "chat-30-2016:AVYgbe1KysuRDN3fS4m1",
+    "attributes": {
+      "command": "",
+      "room": "c9sneaky",
+      "timestamp": 1469422874872,
+      "deleted": false,
+      "message": "REKT",
+      "from": "sanchopost",
+      "tags": {
+        "badges": null,
+        "color": null,
+        "display-name": "Sanchopost\\s",
+        "emotes": null,
+        "id": "7e5819eb-b94e-4de5-a2b7-60421e31a93d",
+        "mod": false,
+        "room-id": "24538518",
+        "subscriber": false,
+        "turbo": false,
+        "user-id": "91164592",
+        "user-type": null
       },
-      {
-         "type":"rechat-message",
-         "id":"chat-11-2016:AVOKd50QUixFSgzqobgO",
-         "attributes":{
-            "command":"",
-            "room":"lirik",
-            "timestamp":1458316992293,
-            "deleted":false,
-            "message":"bye plebs lirikCLAP",
-            "from":"obsidianmasterclass",
-            "tags":{
-               "color":"#0000FF",
-               "display-name":"obsidianmasterclass",
-               "emotes":{
-                  "85991":[
-                     [
-                        10,
-                        18
-                     ]
-                  ]
-               },
-               "mod":false,
-               "room-id":"23161357",
-               "subscriber":true,
-               "turbo":false,
-               "user-id":"83929154",
-               "user-type":null
-            },
-            "color":"#0000FF"
-         },
-         "links":{
-            "self":"/rechat-message/chat-11-2016:AVOKd50QUixFSgzqobgO"
-         }
+      "color": null
+    },
+    "links": {
+      "self": "/rechat-message/chat-30-2016:AVYgbe1KysuRDN3fS4m1"
+    }
+  }, {
+    "type": "rechat-message",
+    "id": "chat-30-2016:AVYgbfZX5jaEaKEB9lFP",
+    "attributes": {
+      "command": "",
+      "room": "c9sneaky",
+      "timestamp": 1469422876140,
+      "deleted": false,
+      "message": "sneakyGasm",
+      "from": "chaosxblood",
+      "tags": {
+        "badges": "subscriber/1",
+        "color": "#D2691E",
+        "display-name": "chaosxblood",
+        "emotes": {
+          "73519": [
+            [0, 9]
+          ]
+        },
+        "id": "5886c626-058b-4354-bc29-6a367234f5f9",
+        "mod": false,
+        "room-id": "24538518",
+        "subscriber": true,
+        "turbo": false,
+        "user-id": "39766203",
+        "user-type": null
       },
-      {
-         "type":"rechat-message",
-         "id":"chat-11-2016:AVOKd50QUixFSgzqobil",
-         "attributes":{
-            "command":"",
-            "room":"lirik",
-            "timestamp":1458316992741,
-            "deleted":false,
-            "message":"Charlemagne420 LOOK http://prntscr.com/agvcg1",
-            "from":"ghostr6",
-            "tags":{
-               "color":"#0000FF",
-               "display-name":"GhostR6",
-               "emotes":null,
-               "mod":false,
-               "room-id":"23161357",
-               "subscriber":true,
-               "turbo":false,
-               "user-id":"40042222",
-               "user-type":null
-            },
-            "color":"#0000FF"
-         },
-         "links":{
-            "self":"/rechat-message/chat-11-2016:AVOKd50QUixFSgzqobil"
-         }
+      "color": "#D2691E"
+    },
+    "links": {
+      "self": "/rechat-message/chat-30-2016:AVYgbfZX5jaEaKEB9lFP"
+    }
+  }, {
+    "type": "rechat-message",
+    "id": "chat-30-2016:AVYgbfZX5jaEaKEB9lFR",
+    "attributes": {
+      "command": "",
+      "room": "c9sneaky",
+      "timestamp": 1469422876145,
+      "deleted": false,
+      "message": "NO REACTION WHATSOEVER",
+      "from": "durrrr_gg",
+      "tags": {
+        "badges": null,
+        "color": "#FF0000",
+        "display-name": "Durrrr_gg",
+        "emotes": null,
+        "id": "31324d92-f94d-4f98-bf5c-1370b1631d21",
+        "mod": false,
+        "room-id": "24538518",
+        "subscriber": false,
+        "turbo": false,
+        "user-id": "48882165",
+        "user-type": null
       },
-      {
-         "type":"rechat-message",
-         "id":"chat-11-2016:AVOKd50QUixFSgzqobi4",
-         "attributes":{
-            "command":"",
-            "room":"lirik",
-            "timestamp":1458316992804,
-            "deleted":false,
-            "message":"Later plebs",
-            "from":"villainary_life",
-            "tags":{
-               "color":"#FF0000",
-               "display-name":"Villainary_Life",
-               "emotes":null,
-               "mod":false,
-               "room-id":"23161357",
-               "subscriber":true,
-               "turbo":false,
-               "user-id":"62651319",
-               "user-type":null
-            },
-            "color":"#FF0000"
-         },
-         "links":{
-            "self":"/rechat-message/chat-11-2016:AVOKd50QUixFSgzqobi4"
-         }
+      "color": "#FF0000"
+    },
+    "links": {
+      "self": "/rechat-message/chat-30-2016:AVYgbfZX5jaEaKEB9lFR"
+    }
+  }, {
+    "type": "rechat-message",
+    "id": "chat-30-2016:AVYgbfZX5jaEaKEB9lIB",
+    "attributes": {
+      "command": "",
+      "room": "c9sneaky",
+      "timestamp": 1469422876575,
+      "deleted": false,
+      "message": "did ur mum?",
+      "from": "camoz20",
+      "tags": {
+        "badges": null,
+        "color": "#008000",
+        "display-name": "Camoz20",
+        "emotes": null,
+        "id": "6c94371d-d9e8-4c0a-93d4-de42a99ea51b",
+        "mod": false,
+        "room-id": "24538518",
+        "subscriber": false,
+        "turbo": false,
+        "user-id": "30556045",
+        "user-type": null
       },
-      {
-         "type":"rechat-message",
-         "id":"chat-11-2016:AVOKd6bygab3D2LxwHGe",
-         "attributes":{
-            "command":"",
-            "room":"lirik",
-            "timestamp":1458316994908,
-            "deleted":false,
-            "message":"@epicp0tato lirikH",
-            "from":"davidmirabilio",
-            "tags":{
-               "color":null,
-               "display-name":"davidmirabilio",
-               "emotes":{
-                  "15020":[
-                     [
-                        12,
-                        17
-                     ]
-                  ]
-               },
-               "mod":false,
-               "room-id":"23161357",
-               "subscriber":true,
-               "turbo":false,
-               "user-id":"98881765",
-               "user-type":null
-            },
-            "color":null
-         },
-         "links":{
-            "self":"/rechat-message/chat-11-2016:AVOKd6bygab3D2LxwHGe"
-         }
+      "color": "#008000"
+    },
+    "links": {
+      "self": "/rechat-message/chat-30-2016:AVYgbfZX5jaEaKEB9lIB"
+    }
+  }, {
+    "type": "rechat-message",
+    "id": "chat-30-2016:AVYgbfZX5jaEaKEB9lKl",
+    "attributes": {
+      "command": "",
+      "room": "c9sneaky",
+      "timestamp": 1469422876947,
+      "deleted": false,
+      "message": "@Mekaco DansGame",
+      "from": "bmandagamer",
+      "tags": {
+        "badges": null,
+        "color": "#00FF7F",
+        "display-name": "BManDaGamer",
+        "emotes": {
+          "33": [
+            [8, 15]
+          ]
+        },
+        "id": "abd39312-72db-47b9-b420-6dcafb9d2ad7",
+        "mod": false,
+        "room-id": "24538518",
+        "subscriber": false,
+        "turbo": false,
+        "user-id": "29349744",
+        "user-type": null
       },
-      {
-         "type":"rechat-message",
-         "id":"chat-11-2016:AVOKd6bygab3D2LxwHMP",
-         "attributes":{
-            "command":"",
-            "room":"lirik",
-            "timestamp":1458316995846,
-            "deleted":false,
-            "message":"lirikHYPE lirikHYPE lirikHYPE",
-            "from":"infraredskittle",
-            "tags":{
-               "color":"#FF6BFA",
-               "display-name":"InfraRedSkittle",
-               "emotes":{
-                  "50739":[
-                     [
-                        0,
-                        8
-                     ],
-                     [
-                        10,
-                        18
-                     ],
-                     [
-                        20,
-                        28
-                     ]
-                  ]
-               },
-               "mod":false,
-               "room-id":"23161357",
-               "subscriber":true,
-               "turbo":true,
-               "user-id":"13010088",
-               "user-type":null
-            },
-            "color":"#FF6BFA"
-         },
-         "links":{
-            "self":"/rechat-message/chat-11-2016:AVOKd6bygab3D2LxwHMP"
-         }
+      "color": "#00FF7F"
+    },
+    "links": {
+      "self": "/rechat-message/chat-30-2016:AVYgbfZX5jaEaKEB9lKl"
+    }
+  }, {
+    "type": "rechat-message",
+    "id": "chat-30-2016:AVYgbfZX5jaEaKEB9lLv",
+    "attributes": {
+      "command": "",
+      "room": "c9sneaky",
+      "timestamp": 1469422877091,
+      "deleted": false,
+      "message": "LUL",
+      "from": "euflash8",
+      "tags": {
+        "badges": null,
+        "color": null,
+        "display-name": "euflash8",
+        "emotes": null,
+        "id": "87dc19e1-4575-4ac2-bf8b-8404d8b8a2dc",
+        "mod": false,
+        "room-id": "24538518",
+        "subscriber": false,
+        "turbo": false,
+        "user-id": "122929214",
+        "user-type": null
       },
-      {
-         "type":"rechat-message",
-         "id":"chat-11-2016:AVOKd7GQMKX-gTYiWf_S",
-         "attributes":{
-            "command":"",
-            "room":"lirik",
-            "timestamp":1458316998485,
-            "deleted":false,
-            "message":"lirikHYPE",
-            "from":"tiagof11",
-            "tags":{
-               "color":"#01CCFF",
-               "display-name":"TiagoF11",
-               "emotes":{
-                  "50739":[
-                     [
-                        0,
-                        8
-                     ]
-                  ]
-               },
-               "mod":false,
-               "room-id":"23161357",
-               "subscriber":true,
-               "turbo":true,
-               "user-id":"58835707",
-               "user-type":null
-            },
-            "color":"#01CCFF"
-         },
-         "links":{
-            "self":"/rechat-message/chat-11-2016:AVOKd7GQMKX-gTYiWf_S"
-         }
+      "color": null
+    },
+    "links": {
+      "self": "/rechat-message/chat-30-2016:AVYgbfZX5jaEaKEB9lLv"
+    }
+  }, {
+    "type": "rechat-message",
+    "id": "chat-30-2016:AVYgbfZX5jaEaKEB9lP2",
+    "attributes": {
+      "command": "",
+      "room": "c9sneaky",
+      "timestamp": 1469422877772,
+      "deleted": false,
+      "message": "me gustan los penes Kappa",
+      "from": "minimigg",
+      "tags": {
+        "badges": null,
+        "color": "#0000FF",
+        "display-name": "MinimiGG",
+        "emotes": {
+          "25": [
+            [20, 24]
+          ]
+        },
+        "id": "d12a86b4-afeb-4468-ab4c-6e9fbb281969",
+        "mod": false,
+        "room-id": "24538518",
+        "subscriber": false,
+        "turbo": false,
+        "user-id": "79279292",
+        "user-type": null
       },
-      {
-         "type":"rechat-message",
-         "id":"chat-11-2016:AVOKd7GQMKX-gTYiWgAc",
-         "attributes":{
-            "command":"",
-            "room":"lirik",
-            "timestamp":1458316998684,
-            "deleted":false,
-            "message":"Dave lirikFEELS",
-            "from":"vanexia",
-            "tags":{
-               "color":"#FF0099",
-               "display-name":"Vanexia",
-               "emotes":{
-                  "55507":[
-                     [
-                        5,
-                        14
-                     ]
-                  ]
-               },
-               "mod":false,
-               "room-id":"23161357",
-               "subscriber":true,
-               "turbo":true,
-               "user-id":"76103671",
-               "user-type":null
-            },
-            "color":"#FF0099"
-         },
-         "links":{
-            "self":"/rechat-message/chat-11-2016:AVOKd7GQMKX-gTYiWgAc"
-         }
+      "color": "#0000FF"
+    },
+    "links": {
+      "self": "/rechat-message/chat-30-2016:AVYgbfZX5jaEaKEB9lP2"
+    }
+  }, {
+    "type": "rechat-message",
+    "id": "chat-30-2016:AVYgbfZX5jaEaKEB9lQ-",
+    "attributes": {
+      "command": "",
+      "room": "c9sneaky",
+      "timestamp": 1469422877949,
+      "deleted": false,
+      "message": "qtpWAVE",
+      "from": "proggyhead",
+      "tags": {
+        "badges": null,
+        "color": "#5F9EA0",
+        "display-name": "proggyhead",
+        "emotes": null,
+        "id": "b57e15ba-81bc-4eb6-9caf-04cf845323ff",
+        "mod": false,
+        "room-id": "24538518",
+        "subscriber": false,
+        "turbo": false,
+        "user-id": "105057797",
+        "user-type": null
       },
-      {
-         "type":"rechat-message",
-         "id":"chat-11-2016:AVOKd7rdc_tGncT9d9ck",
-         "attributes":{
-            "command":"",
-            "room":"lirik",
-            "timestamp":1458316998946,
-            "deleted":false,
-            "message":"lirikHYPE lirikHYPE lirikHYPE lirikHYPE lirikHYPE",
-            "from":"misterbluedino",
-            "tags":{
-               "color":"#0000FF",
-               "display-name":"MisterBlueDino",
-               "emotes":{
-                  "50739":[
-                     [
-                        0,
-                        8
-                     ],
-                     [
-                        10,
-                        18
-                     ],
-                     [
-                        20,
-                        28
-                     ],
-                     [
-                        30,
-                        38
-                     ],
-                     [
-                        40,
-                        48
-                     ]
-                  ]
-               },
-               "mod":false,
-               "room-id":"23161357",
-               "subscriber":true,
-               "turbo":false,
-               "user-id":"98216927",
-               "user-type":null
-            },
-            "color":"#0000FF"
-         },
-         "links":{
-            "self":"/rechat-message/chat-11-2016:AVOKd7rdc_tGncT9d9ck"
-         }
+      "color": "#5F9EA0"
+    },
+    "links": {
+      "self": "/rechat-message/chat-30-2016:AVYgbfZX5jaEaKEB9lQ-"
+    }
+  }, {
+    "type": "rechat-message",
+    "id": "chat-30-2016:AVYgbfZX5jaEaKEB9lRu",
+    "attributes": {
+      "command": "",
+      "room": "c9sneaky",
+      "timestamp": 1469422878047,
+      "deleted": false,
+      "message": "ding ding donggg",
+      "from": "trv5t",
+      "tags": {
+        "badges": "subscriber/1",
+        "color": "#1E90FF",
+        "display-name": "TRv5T",
+        "emotes": null,
+        "id": "cacd68f5-ad63-453e-a31c-561a72ae03fc",
+        "mod": false,
+        "room-id": "24538518",
+        "subscriber": true,
+        "turbo": false,
+        "user-id": "93643066",
+        "user-type": null
       },
-      {
-         "type":"rechat-message",
-         "id":"chat-11-2016:AVOKd7rdc_tGncT9d9jn",
-         "attributes":{
-            "command":"",
-            "room":"lirik",
-            "timestamp":1458317000059,
-            "deleted":false,
-            "message":"lirikCLAP",
-            "from":"stevoniak",
-            "tags":{
-               "color":"#0000FF",
-               "display-name":"stevoniak",
-               "emotes":{
-                  "85991":[
-                     [
-                        0,
-                        8
-                     ]
-                  ]
-               },
-               "mod":false,
-               "room-id":"23161357",
-               "subscriber":true,
-               "turbo":false,
-               "user-id":"34074243",
-               "user-type":null
-            },
-            "color":"#0000FF"
-         },
-         "links":{
-            "self":"/rechat-message/chat-11-2016:AVOKd7rdc_tGncT9d9jn"
-         }
+      "color": "#1E90FF"
+    },
+    "links": {
+      "self": "/rechat-message/chat-30-2016:AVYgbfZX5jaEaKEB9lRu"
+    }
+  }, {
+    "type": "rechat-message",
+    "id": "chat-30-2016:AVYgbf8tl6zR4Ll_bTcb",
+    "attributes": {
+      "command": "",
+      "room": "c9sneaky",
+      "timestamp": 1469422878247,
+      "deleted": false,
+      "message": "sneakys dad Kappa",
+      "from": "crigdogna",
+      "tags": {
+        "badges": null,
+        "color": "#2E8B57",
+        "display-name": "CrigdogNA",
+        "emotes": {
+          "25": [
+            [12, 16]
+          ]
+        },
+        "id": "dd61d151-2948-417d-b07b-c22920b510cc",
+        "mod": false,
+        "room-id": "24538518",
+        "subscriber": false,
+        "turbo": false,
+        "user-id": "95401594",
+        "user-type": null
       },
-      {
-         "type":"rechat-message",
-         "id":"chat-11-2016:AVOKd8NSvOsjw69AX48G",
-         "attributes":{
-            "command":"",
-            "room":"lirik",
-            "timestamp":1458317002522,
-            "deleted":false,
-            "message":"lirikFEELS",
-            "from":"feelsdaveman",
-            "tags":{
-               "color":"#008000",
-               "display-name":"FeelsDaveMan",
-               "emotes":{
-                  "55507":[
-                     [
-                        0,
-                        9
-                     ]
-                  ]
-               },
-               "mod":false,
-               "room-id":"23161357",
-               "subscriber":true,
-               "turbo":false,
-               "user-id":"104615889",
-               "user-type":null
-            },
-            "color":"#008000"
-         },
-         "links":{
-            "self":"/rechat-message/chat-11-2016:AVOKd8NSvOsjw69AX48G"
-         }
+      "color": "#2E8B57"
+    },
+    "links": {
+      "self": "/rechat-message/chat-30-2016:AVYgbf8tl6zR4Ll_bTcb"
+    }
+  }, {
+    "type": "rechat-message",
+    "id": "chat-30-2016:AVYgbf8tl6zR4Ll_bTeh",
+    "attributes": {
+      "command": "",
+      "room": "c9sneaky",
+      "timestamp": 1469422878579,
+      "deleted": false,
+      "message": "biblethump",
+      "from": "manuel_neuer99",
+      "tags": {
+        "badges": null,
+        "color": null,
+        "display-name": "manuel_neuer99",
+        "emotes": null,
+        "id": "04f2f761-615b-437a-8fd2-eb9886355d38",
+        "mod": false,
+        "room-id": "24538518",
+        "subscriber": false,
+        "turbo": false,
+        "user-id": "104457613",
+        "user-type": null
       },
-      {
-         "type":"rechat-message",
-         "id":"chat-11-2016:AVOKd8src_tGncT9d92S",
-         "attributes":{
-            "command":"",
-            "room":"lirik",
-            "timestamp":1458317004854,
-            "deleted":false,
-            "message":"LATER PLESB",
-            "from":"morkkelis",
-            "tags":{
-               "color":null,
-               "display-name":"morkkelis",
-               "emotes":null,
-               "mod":false,
-               "room-id":"23161357",
-               "subscriber":true,
-               "turbo":false,
-               "user-id":"43550898",
-               "user-type":null
-            },
-            "color":null
-         },
-         "links":{
-            "self":"/rechat-message/chat-11-2016:AVOKd8src_tGncT9d92S"
-         }
+      "color": null
+    },
+    "links": {
+      "self": "/rechat-message/chat-30-2016:AVYgbf8tl6zR4Ll_bTeh"
+    }
+  }, {
+    "type": "rechat-message",
+    "id": "chat-30-2016:AVYgbf8tl6zR4Ll_bTfL",
+    "attributes": {
+      "command": "",
+      "room": "c9sneaky",
+      "timestamp": 1469422878653,
+      "deleted": false,
+      "message": "PogChamp I GOT MEOWTH ON POKEMON GO PogChamp",
+      "from": "legike",
+      "tags": {
+        "badges": "subscriber/1",
+        "color": "#D2691E",
+        "display-name": "Legike",
+        "emotes": {
+          "88": [
+            [0, 7],
+            [36, 43]
+          ]
+        },
+        "id": "958167fb-cea1-41e5-9533-09f59323e072",
+        "mod": false,
+        "room-id": "24538518",
+        "subscriber": true,
+        "turbo": false,
+        "user-id": "80183911",
+        "user-type": null
       },
-      {
-         "type":"rechat-message",
-         "id":"chat-11-2016:AVOKd8ssc_tGncT9d97B",
-         "attributes":{
-            "command":"",
-            "room":"lirik",
-            "timestamp":1458317005387,
-            "deleted":false,
-            "message":"lirikCHAMP lirikCHAMP lirikCHAMP lirikCHAMP",
-            "from":"obsidianmasterclass",
-            "tags":{
-               "color":"#0000FF",
-               "display-name":"obsidianmasterclass",
-               "emotes":{
-                  "50741":[
-                     [
-                        0,
-                        9
-                     ],
-                     [
-                        11,
-                        20
-                     ],
-                     [
-                        22,
-                        31
-                     ],
-                     [
-                        33,
-                        42
-                     ]
-                  ]
-               },
-               "mod":false,
-               "room-id":"23161357",
-               "subscriber":true,
-               "turbo":false,
-               "user-id":"83929154",
-               "user-type":null
-            },
-            "color":"#0000FF"
-         },
-         "links":{
-            "self":"/rechat-message/chat-11-2016:AVOKd8ssc_tGncT9d97B"
-         }
+      "color": "#D2691E"
+    },
+    "links": {
+      "self": "/rechat-message/chat-30-2016:AVYgbf8tl6zR4Ll_bTfL"
+    }
+  }, {
+    "type": "rechat-message",
+    "id": "chat-30-2016:AVYgbf8tl6zR4Ll_bTmb",
+    "attributes": {
+      "command": "",
+      "room": "c9sneaky",
+      "timestamp": 1469422879678,
+      "deleted": false,
+      "message": "WHO FED JINX LUL",
+      "from": "waters_2012",
+      "tags": {
+        "badges": null,
+        "color": null,
+        "display-name": "waters_2012",
+        "emotes": null,
+        "id": "505b6041-9ad7-4df0-a1c3-a8fd944532ac",
+        "mod": false,
+        "room-id": "24538518",
+        "subscriber": false,
+        "turbo": false,
+        "user-id": "117997722",
+        "user-type": null
       },
-      {
-         "type":"rechat-message",
-         "id":"chat-11-2016:AVOKd9KhMKX-gTYiWgOe",
-         "attributes":{
-            "command":"",
-            "room":"lirik",
-            "timestamp":1458317006955,
-            "deleted":false,
-            "message":"apparently @OGtriipleOG it's on the belgian news website NotLikeThis",
-            "from":"nymu",
-            "tags":{
-               "color":"#BDC3EF",
-               "display-name":"Nymu",
-               "emotes":{
-                  "58765":[
-                     [
-                        57,
-                        67
-                     ]
-                  ]
-               },
-               "mod":false,
-               "room-id":"23161357",
-               "subscriber":true,
-               "turbo":true,
-               "user-id":"43693966",
-               "user-type":null
-            },
-            "color":"#BDC3EF"
-         },
-         "links":{
-            "self":"/rechat-message/chat-11-2016:AVOKd9KhMKX-gTYiWgOe"
-         }
+      "color": null
+    },
+    "links": {
+      "self": "/rechat-message/chat-30-2016:AVYgbf8tl6zR4Ll_bTmb"
+    }
+  }, {
+    "type": "rechat-message",
+    "id": "chat-30-2016:AVYgbf8ul6zR4Ll_bTn8",
+    "attributes": {
+      "command": "",
+      "room": "c9sneaky",
+      "timestamp": 1469422879911,
+      "deleted": false,
+      "message": "LOL",
+      "from": "madramen",
+      "tags": {
+        "badges": null,
+        "color": "#FF4500",
+        "display-name": "MadRamen",
+        "emotes": null,
+        "id": "29b4e3ba-f5d2-4ef1-a9f3-2b9e9f86c57b",
+        "mod": false,
+        "room-id": "24538518",
+        "subscriber": false,
+        "turbo": false,
+        "user-id": "62672509",
+        "user-type": null
       },
-      {
-         "type":"rechat-message",
-         "id":"chat-11-2016:AVOKd-L2c_tGncT9d97N",
-         "attributes":{
-            "command":"",
-            "room":"lirik",
-            "timestamp":1458317009439,
-            "deleted":false,
-            "message":"lirikM lirikM",
-            "from":"dietertje159",
-            "tags":{
-               "color":"#0000FF",
-               "display-name":"dietertje159",
-               "emotes":{
-                  "2173":[
-                     [
-                        0,
-                        5
-                     ],
-                     [
-                        7,
-                        12
-                     ]
-                  ]
-               },
-               "mod":false,
-               "room-id":"23161357",
-               "subscriber":true,
-               "turbo":false,
-               "user-id":"42807789",
-               "user-type":null
-            },
-            "color":"#0000FF"
-         },
-         "links":{
-            "self":"/rechat-message/chat-11-2016:AVOKd-L2c_tGncT9d97N"
-         }
+      "color": "#FF4500"
+    },
+    "links": {
+      "self": "/rechat-message/chat-30-2016:AVYgbf8ul6zR4Ll_bTn8"
+    }
+  }, {
+    "type": "rechat-message",
+    "id": "chat-30-2016:AVYgbf8ul6zR4Ll_bTpo",
+    "attributes": {
+      "command": "",
+      "room": "c9sneaky",
+      "timestamp": 1469422880153,
+      "deleted": false,
+      "message": "Kappa",
+      "from": "jacome05",
+      "tags": {
+        "badges": null,
+        "color": "#1E90FF",
+        "display-name": "Jacome05",
+        "emotes": {
+          "25": [
+            [0, 4]
+          ]
+        },
+        "id": "c57bbd9d-e391-4829-a7c7-44bc938de190",
+        "mod": false,
+        "room-id": "24538518",
+        "subscriber": false,
+        "turbo": false,
+        "user-id": "70841863",
+        "user-type": null
       },
-      {
-         "type":"rechat-message",
-         "id":"chat-11-2016:AVOKd-L2c_tGncT9d99_",
-         "attributes":{
-            "command":"",
-            "room":"lirik",
-            "timestamp":1458317009821,
-            "deleted":false,
-            "message":"sound fucked?",
-            "from":"spinal_2k",
-            "tags":{
-               "color":"#DAA520",
-               "display-name":"spinal_2k",
-               "emotes":null,
-               "mod":false,
-               "room-id":"23161357",
-               "subscriber":true,
-               "turbo":false,
-               "user-id":"56997425",
-               "user-type":null
-            },
-            "color":"#DAA520"
-         },
-         "links":{
-            "self":"/rechat-message/chat-11-2016:AVOKd-L2c_tGncT9d99_"
-         }
+      "color": "#1E90FF"
+    },
+    "links": {
+      "self": "/rechat-message/chat-30-2016:AVYgbf8ul6zR4Ll_bTpo"
+    }
+  }, {
+    "type": "rechat-message",
+    "id": "chat-30-2016:AVYgbggoeGJLui5muGlj",
+    "attributes": {
+      "command": "",
+      "room": "c9sneaky",
+      "timestamp": 1469422881047,
+      "deleted": false,
+      "message": "( Í¡Â° ÍœÊ– Í¡Â°)",
+      "from": "bledear",
+      "tags": {
+        "badges": null,
+        "color": "#DAA520",
+        "display-name": null,
+        "emotes": null,
+        "id": "bb4195ab-7c5b-4930-a253-03e49251438f",
+        "mod": false,
+        "room-id": "24538518",
+        "subscriber": false,
+        "turbo": false,
+        "user-id": "47907058",
+        "user-type": null
       },
-      {
-         "type":"rechat-message",
-         "id":"chat-11-2016:AVOKd_ZtUixFSgzqobyw",
-         "attributes":{
-            "command":"",
-            "room":"lirik",
-            "timestamp":1458317015640,
-            "deleted":false,
-            "message":"we love you tatPleb lirikH",
-            "from":"inutay",
-            "tags":{
-               "color":"#8A2BE2",
-               "display-name":null,
-               "emotes":{
-                  "70087":[
-                     [
-                        12,
-                        18
-                     ]
-                  ],
-                  "15020":[
-                     [
-                        20,
-                        25
-                     ]
-                  ]
-               },
-               "mod":false,
-               "room-id":"23161357",
-               "subscriber":true,
-               "turbo":false,
-               "user-id":"9533754",
-               "user-type":null
-            },
-            "color":"#8A2BE2"
-         },
-         "links":{
-            "self":"/rechat-message/chat-11-2016:AVOKd_ZtUixFSgzqobyw"
-         }
+      "color": "#DAA520"
+    },
+    "links": {
+      "self": "/rechat-message/chat-30-2016:AVYgbggoeGJLui5muGlj"
+    }
+  }, {
+    "type": "rechat-message",
+    "id": "chat-30-2016:AVYgbggoeGJLui5muGof",
+    "attributes": {
+      "command": "",
+      "room": "c9sneaky",
+      "timestamp": 1469422881464,
+      "deleted": false,
+      "message": "LUL",
+      "from": "omegafall2",
+      "tags": {
+        "badges": null,
+        "color": "#FF69B4",
+        "display-name": "Omegafall2",
+        "emotes": null,
+        "id": "540c1f32-b845-4c1e-b5bb-a0af231101e0",
+        "mod": false,
+        "room-id": "24538518",
+        "subscriber": false,
+        "turbo": false,
+        "user-id": "87116676",
+        "user-type": null
       },
-      {
-         "type":"rechat-message",
-         "id":"chat-11-2016:AVOKeAAF27-tT9deZPtm",
-         "attributes":{
-            "command":"",
-            "room":"lirik",
-            "timestamp":1458317017068,
-            "deleted":false,
-            "message":"PMG Souvlaki for all!!",
-            "from":"charlemagne420",
-            "tags":{
-               "color":"#5F9EA0",
-               "display-name":"charlemagne420",
-               "emotes":null,
-               "mod":false,
-               "room-id":"23161357",
-               "subscriber":true,
-               "turbo":false,
-               "user-id":"70053097",
-               "user-type":null
-            },
-            "color":"#5F9EA0"
-         },
-         "links":{
-            "self":"/rechat-message/chat-11-2016:AVOKeAAF27-tT9deZPtm"
-         }
-      }
-   ],
-   "meta":{
-      "next":null
-   }
+      "color": "#FF69B4"
+    },
+    "links": {
+      "self": "/rechat-message/chat-30-2016:AVYgbggoeGJLui5muGof"
+    }
+  }, {
+    "type": "rechat-message",
+    "id": "chat-30-2016:AVYgbggoeGJLui5muGpl",
+    "attributes": {
+      "command": "",
+      "room": "c9sneaky",
+      "timestamp": 1469422881629,
+      "deleted": false,
+      "message": "Kreygasm",
+      "from": "euflash8",
+      "tags": {
+        "badges": null,
+        "color": null,
+        "display-name": "euflash8",
+        "emotes": {
+          "41": [
+            [0, 7]
+          ]
+        },
+        "id": "91128325-ad48-4284-8d91-c438febf8e6b",
+        "mod": false,
+        "room-id": "24538518",
+        "subscriber": false,
+        "turbo": false,
+        "user-id": "122929214",
+        "user-type": null
+      },
+      "color": null
+    },
+    "links": {
+      "self": "/rechat-message/chat-30-2016:AVYgbggoeGJLui5muGpl"
+    }
+  }, {
+    "type": "rechat-message",
+    "id": "chat-30-2016:AVYgbggoeGJLui5muGr1",
+    "attributes": {
+      "command": "",
+      "room": "c9sneaky",
+      "timestamp": 1469422881977,
+      "deleted": false,
+      "message": "grandma *** hehe",
+      "from": "tubameteor",
+      "tags": {
+        "badges": null,
+        "color": "#FF0000",
+        "display-name": "Tubameteor",
+        "emotes": null,
+        "id": "d596cb8b-4290-4166-a483-f60242778846",
+        "mod": false,
+        "room-id": "24538518",
+        "subscriber": false,
+        "turbo": false,
+        "user-id": "44759308",
+        "user-type": null
+      },
+      "color": "#FF0000"
+    },
+    "links": {
+      "self": "/rechat-message/chat-30-2016:AVYgbggoeGJLui5muGr1"
+    }
+  }, {
+    "type": "rechat-message",
+    "id": "chat-30-2016:AVYgbhE899U8BxS4kIAx",
+    "attributes": {
+      "command": "",
+      "room": "c9sneaky",
+      "timestamp": 1469422883645,
+      "deleted": false,
+      "message": "REEEEEEKT SwiftRage",
+      "from": "plpsautomatic",
+      "tags": {
+        "badges": null,
+        "color": "#2E8B57",
+        "display-name": "plpsautomatic",
+        "emotes": {
+          "34": [
+            [10, 18]
+          ]
+        },
+        "id": "7404eb55-3fbc-4aa0-b293-1d2cd4a8ee3d",
+        "mod": false,
+        "room-id": "24538518",
+        "subscriber": false,
+        "turbo": false,
+        "user-id": "45173522",
+        "user-type": null
+      },
+      "color": "#2E8B57"
+    },
+    "links": {
+      "self": "/rechat-message/chat-30-2016:AVYgbhE899U8BxS4kIAx"
+    }
+  }, {
+    "type": "rechat-message",
+    "id": "chat-30-2016:AVYgbhE899U8BxS4kIJz",
+    "attributes": {
+      "command": "",
+      "room": "c9sneaky",
+      "timestamp": 1469422884960,
+      "deleted": false,
+      "message": "LUL only real LULer can build this perfect pyramid LUL LUL . Try like me !Try like me ! Try like me !! LUL LUL LUL And my pyramid still higher!!!!!! LUL LUL LUL LUL",
+      "from": "yanlxi",
+      "tags": {
+        "badges": null,
+        "color": null,
+        "display-name": "yanlxi",
+        "emotes": null,
+        "id": "f86b8b0a-90a5-4335-855b-5f1df534b6fa",
+        "mod": false,
+        "room-id": "24538518",
+        "subscriber": false,
+        "turbo": false,
+        "user-id": "111636385",
+        "user-type": null
+      },
+      "color": null
+    },
+    "links": {
+      "self": "/rechat-message/chat-30-2016:AVYgbhE899U8BxS4kIJz"
+    }
+  }, {
+    "type": "rechat-message",
+    "id": "chat-30-2016:AVYgbhmCl6zR4Ll_bTsX",
+    "attributes": {
+      "command": "",
+      "room": "c9sneaky",
+      "timestamp": 1469422885196,
+      "deleted": false,
+      "message": "hey dad",
+      "from": "jacerizo",
+      "tags": {
+        "badges": null,
+        "color": null,
+        "display-name": "jacerizo",
+        "emotes": null,
+        "id": "a0df17d2-9cff-4a6a-a909-f93573ade886",
+        "mod": false,
+        "room-id": "24538518",
+        "subscriber": false,
+        "turbo": false,
+        "user-id": "108111851",
+        "user-type": null
+      },
+      "color": null
+    },
+    "links": {
+      "self": "/rechat-message/chat-30-2016:AVYgbhmCl6zR4Ll_bTsX"
+    }
+  }, {
+    "type": "rechat-message",
+    "id": "chat-30-2016:AVYgbhmCl6zR4Ll_bTtU",
+    "attributes": {
+      "command": "",
+      "room": "c9sneaky",
+      "timestamp": 1469422885319,
+      "deleted": false,
+      "message": "@waters_2012, LUL",
+      "from": "garyohq",
+      "tags": {
+        "badges": null,
+        "color": "#1E90FF",
+        "display-name": "garyohq",
+        "emotes": null,
+        "id": "9034caac-549b-4562-b501-6905421ee22a",
+        "mod": false,
+        "room-id": "24538518",
+        "subscriber": false,
+        "turbo": false,
+        "user-id": "105724922",
+        "user-type": null
+      },
+      "color": "#1E90FF"
+    },
+    "links": {
+      "self": "/rechat-message/chat-30-2016:AVYgbhmCl6zR4Ll_bTtU"
+    }
+  }, {
+    "type": "rechat-message",
+    "id": "chat-30-2016:AVYgbhmDl6zR4Ll_bTyk",
+    "attributes": {
+      "command": "",
+      "room": "c9sneaky",
+      "timestamp": 1469422886003,
+      "deleted": true,
+      "message": "",
+      "from": "itsthebear",
+      "tags": {
+        "badges": null,
+        "color": "#FF0000",
+        "display-name": "ItsTheBear",
+        "emotes": null,
+        "id": "2ea11530-eb7c-4108-8c66-6619ea48cc7b",
+        "mod": false,
+        "room-id": "24538518",
+        "subscriber": false,
+        "turbo": false,
+        "user-id": "48714793",
+        "user-type": null
+      },
+      "color": "#FF0000"
+    },
+    "links": {
+      "self": "/rechat-message/chat-30-2016:AVYgbhmDl6zR4Ll_bTyk"
+    }
+  }, {
+    "type": "rechat-message",
+    "id": "chat-30-2016:AVYgbhmDl6zR4Ll_bT2X",
+    "attributes": {
+      "command": "",
+      "room": "c9sneaky",
+      "timestamp": 1469422886499,
+      "deleted": false,
+      "message": "@GeNoTiK96, i have no idea what you're talking about, i just picked a random person to talk to lol, ily man",
+      "from": "drac0nic_",
+      "tags": {
+        "badges": null,
+        "color": "#DAA520",
+        "display-name": "Drac0nic_",
+        "emotes": null,
+        "id": "f8d0d9d7-c0e8-4d26-90f8-2f5b959fb038",
+        "mod": false,
+        "room-id": "24538518",
+        "subscriber": false,
+        "turbo": false,
+        "user-id": "39133141",
+        "user-type": null
+      },
+      "color": "#DAA520"
+    },
+    "links": {
+      "self": "/rechat-message/chat-30-2016:AVYgbhmDl6zR4Ll_bT2X"
+    }
+  }, {
+    "type": "rechat-message",
+    "id": "chat-30-2016:AVYgbiJxXRipPLpOWuC7",
+    "attributes": {
+      "command": "",
+      "room": "c9sneaky",
+      "timestamp": 1469422887438,
+      "deleted": false,
+      "message": "BibleThump",
+      "from": "happydisease",
+      "tags": {
+        "badges": null,
+        "color": null,
+        "display-name": null,
+        "emotes": {
+          "86": [
+            [0, 9]
+          ]
+        },
+        "id": "611403e9-0361-4483-8124-f1728eb4292a",
+        "mod": false,
+        "room-id": "24538518",
+        "subscriber": false,
+        "turbo": false,
+        "user-id": "47854431",
+        "user-type": null
+      },
+      "color": null
+    },
+    "links": {
+      "self": "/rechat-message/chat-30-2016:AVYgbiJxXRipPLpOWuC7"
+    }
+  }, {
+    "type": "rechat-message",
+    "id": "chat-30-2016:AVYgbiJxXRipPLpOWuFs",
+    "attributes": {
+      "command": "",
+      "room": "c9sneaky",
+      "timestamp": 1469422887868,
+      "deleted": false,
+      "message": "VoteYea VoteNay New sadness test: should you kill yourself ? âŽ FeelsGoodMan",
+      "from": "radiatedruffles",
+      "tags": {
+        "badges": null,
+        "color": "#008000",
+        "display-name": "Radiatedruffles",
+        "emotes": {
+          "106293": [
+            [0, 6]
+          ],
+          "106294": [
+            [8, 14]
+          ]
+        },
+        "id": "05a0ad61-50ef-4d83-8711-ce64a4947eab",
+        "mod": false,
+        "room-id": "24538518",
+        "subscriber": false,
+        "turbo": false,
+        "user-id": "71841297",
+        "user-type": null
+      },
+      "color": "#008000"
+    },
+    "links": {
+      "self": "/rechat-message/chat-30-2016:AVYgbiJxXRipPLpOWuFs"
+    }
+  }, {
+    "type": "rechat-message",
+    "id": "chat-30-2016:AVYgbiJxXRipPLpOWuMO",
+    "attributes": {
+      "command": "",
+      "room": "c9sneaky",
+      "timestamp": 1469422888810,
+      "deleted": false,
+      "message": "KappaPride",
+      "from": "pilocase",
+      "tags": {
+        "badges": null,
+        "color": "#FF0000",
+        "display-name": "pilocase",
+        "emotes": {
+          "55338": [
+            [0, 9]
+          ]
+        },
+        "id": "b128ffa2-c438-46b5-a73d-cdf8f14d90ea",
+        "mod": false,
+        "room-id": "24538518",
+        "subscriber": false,
+        "turbo": false,
+        "user-id": "41641425",
+        "user-type": null
+      },
+      "color": "#FF0000"
+    },
+    "links": {
+      "self": "/rechat-message/chat-30-2016:AVYgbiJxXRipPLpOWuMO"
+    }
+  }, {
+    "type": "rechat-message",
+    "id": "chat-30-2016:AVYgbiveXRipPLpOWuQf",
+    "attributes": {
+      "command": "",
+      "room": "c9sneaky",
+      "timestamp": 1469422889422,
+      "deleted": false,
+      "message": "My ding ding don Kreygasm",
+      "from": "error998",
+      "tags": {
+        "badges": null,
+        "color": "#FF0000",
+        "display-name": "Error998",
+        "emotes": {
+          "41": [
+            [17, 24]
+          ]
+        },
+        "id": "c62bb5c4-7ad2-497b-8ee6-8bc036a7b676",
+        "mod": false,
+        "room-id": "24538518",
+        "subscriber": false,
+        "turbo": false,
+        "user-id": "60182395",
+        "user-type": null
+      },
+      "color": "#FF0000"
+    },
+    "links": {
+      "self": "/rechat-message/chat-30-2016:AVYgbiveXRipPLpOWuQf"
+    }
+  }, {
+    "type": "rechat-message",
+    "id": "chat-30-2016:AVYgbiveXRipPLpOWuRN",
+    "attributes": {
+      "command": "",
+      "room": "c9sneaky",
+      "timestamp": 1469422889508,
+      "deleted": false,
+      "message": "@BManDaGamer, DansGame",
+      "from": "mekaco",
+      "tags": {
+        "badges": "moderator/1,subscriber/1",
+        "color": "#FF0000",
+        "display-name": "Mekaco",
+        "emotes": {
+          "33": [
+            [14, 21]
+          ]
+        },
+        "id": "2e05abdc-d27c-43af-9cb5-fdc1031bd405",
+        "mod": true,
+        "room-id": "24538518",
+        "subscriber": true,
+        "turbo": false,
+        "user-id": "46433463",
+        "user-type": "mod"
+      },
+      "color": "#FF0000"
+    },
+    "links": {
+      "self": "/rechat-message/chat-30-2016:AVYgbiveXRipPLpOWuRN"
+    }
+  }, {
+    "type": "rechat-message",
+    "id": "chat-30-2016:AVYgbivfXRipPLpOWuTA",
+    "attributes": {
+      "command": "",
+      "room": "c9sneaky",
+      "timestamp": 1469422889814,
+      "deleted": false,
+      "message": "SneakyPls When dad doesn't get the meme SneakyPls",
+      "from": "bunchofmuff",
+      "tags": {
+        "badges": null,
+        "color": "#0000FF",
+        "display-name": "BunchOfMuff",
+        "emotes": null,
+        "id": "05a1a4fe-f524-4094-be35-3d464a75b899",
+        "mod": false,
+        "room-id": "24538518",
+        "subscriber": false,
+        "turbo": false,
+        "user-id": "44459259",
+        "user-type": null
+      },
+      "color": "#0000FF"
+    },
+    "links": {
+      "self": "/rechat-message/chat-30-2016:AVYgbivfXRipPLpOWuTA"
+    }
+  }, {
+    "type": "rechat-message",
+    "id": "chat-30-2016:AVYgbivfXRipPLpOWuXL",
+    "attributes": {
+      "command": "",
+      "room": "c9sneaky",
+      "timestamp": 1469422890459,
+      "deleted": false,
+      "message": "Kappa",
+      "from": "lucientlight",
+      "tags": {
+        "badges": null,
+        "color": "#B22222",
+        "display-name": "LucientLight",
+        "emotes": {
+          "25": [
+            [0, 4]
+          ]
+        },
+        "id": "d113a323-cddf-4427-9f65-7e5e2c1d8808",
+        "mod": false,
+        "room-id": "24538518",
+        "subscriber": false,
+        "turbo": false,
+        "user-id": "47537501",
+        "user-type": null
+      },
+      "color": "#B22222"
+    },
+    "links": {
+      "self": "/rechat-message/chat-30-2016:AVYgbivfXRipPLpOWuXL"
+    }
+  }, {
+    "type": "rechat-message",
+    "id": "chat-30-2016:AVYgbivfXRipPLpOWuYz",
+    "attributes": {
+      "command": "",
+      "room": "c9sneaky",
+      "timestamp": 1469422890667,
+      "deleted": false,
+      "message": "gachiGASM OH YES gachiGASM",
+      "from": "inquisitribble",
+      "tags": {
+        "badges": "subscriber/1",
+        "color": "#FF4500",
+        "display-name": "Inquisitribble",
+        "emotes": null,
+        "id": "8919b3ec-46e4-4b5b-8353-517febb46d77",
+        "mod": false,
+        "room-id": "24538518",
+        "subscriber": true,
+        "turbo": false,
+        "user-id": "62003544",
+        "user-type": null
+      },
+      "color": "#FF4500"
+    },
+    "links": {
+      "self": "/rechat-message/chat-30-2016:AVYgbivfXRipPLpOWuYz"
+    }
+  }, {
+    "type": "rechat-message",
+    "id": "chat-30-2016:AVYgbivfXRipPLpOWuY0",
+    "attributes": {
+      "command": "",
+      "room": "c9sneaky",
+      "timestamp": 1469422890667,
+      "deleted": true,
+      "message": "",
+      "from": "funsofthepatriots",
+      "tags": {
+        "badges": null,
+        "color": null,
+        "display-name": "Funsofthepatriots",
+        "emotes": null,
+        "id": "caace837-260e-4e17-b842-fd2e2e3f0c3d",
+        "mod": false,
+        "room-id": "24538518",
+        "subscriber": false,
+        "turbo": false,
+        "user-id": "65076630",
+        "user-type": null
+      },
+      "color": null
+    },
+    "links": {
+      "self": "/rechat-message/chat-30-2016:AVYgbivfXRipPLpOWuY0"
+    }
+  }, {
+    "type": "rechat-message",
+    "id": "chat-30-2016:AVYgbivfXRipPLpOWucJ",
+    "attributes": {
+      "command": "",
+      "room": "c9sneaky",
+      "timestamp": 1469422891164,
+      "deleted": false,
+      "message": "sneaky rip this bong with me for harambe",
+      "from": "itsnotcamochip",
+      "tags": {
+        "badges": null,
+        "color": "#0000FF",
+        "display-name": "ItsNotCamoChip",
+        "emotes": null,
+        "id": "8c81fd47-518d-4769-ba8c-875c3eb387c2",
+        "mod": false,
+        "room-id": "24538518",
+        "subscriber": false,
+        "turbo": false,
+        "user-id": "44968277",
+        "user-type": null
+      },
+      "color": "#0000FF"
+    },
+    "links": {
+      "self": "/rechat-message/chat-30-2016:AVYgbivfXRipPLpOWucJ"
+    }
+  }, {
+    "type": "rechat-message",
+    "id": "chat-30-2016:AVYgbjUWjvqG6PZK-V4X",
+    "attributes": {
+      "command": "",
+      "room": "c9sneaky",
+      "timestamp": 1469422892056,
+      "deleted": false,
+      "message": "CvS",
+      "from": "manuel_neuer99",
+      "tags": {
+        "badges": null,
+        "color": null,
+        "display-name": "manuel_neuer99",
+        "emotes": null,
+        "id": "24dd2691-e346-48c2-b6d3-2b6b367ac928",
+        "mod": false,
+        "room-id": "24538518",
+        "subscriber": false,
+        "turbo": false,
+        "user-id": "104457613",
+        "user-type": null
+      },
+      "color": null
+    },
+    "links": {
+      "self": "/rechat-message/chat-30-2016:AVYgbjUWjvqG6PZK-V4X"
+    }
+  }, {
+    "type": "rechat-message",
+    "id": "chat-30-2016:AVYgbjUWjvqG6PZK-WCR",
+    "attributes": {
+      "command": "",
+      "room": "c9sneaky",
+      "timestamp": 1469422893534,
+      "deleted": false,
+      "message": "@C9Sneaky Housing accommodations declared \"uninhabitable\" lol #Rio2016",
+      "from": "profirix",
+      "tags": {
+        "badges": null,
+        "color": "#9ACD32",
+        "display-name": "profirix",
+        "emotes": null,
+        "id": "d84167f0-69a4-4221-8f78-1f30e117ae28",
+        "mod": false,
+        "room-id": "24538518",
+        "subscriber": false,
+        "turbo": false,
+        "user-id": "33299919",
+        "user-type": null
+      },
+      "color": "#9ACD32"
+    },
+    "links": {
+      "self": "/rechat-message/chat-30-2016:AVYgbjUWjvqG6PZK-WCR"
+    }
+  }, {
+    "type": "rechat-message",
+    "id": "chat-30-2016:AVYgbjzrcAvq2YB7ToVc",
+    "attributes": {
+      "command": "",
+      "room": "c9sneaky",
+      "timestamp": 1469422894541,
+      "deleted": false,
+      "message": "Used Kreygasm in 2016 LUL",
+      "from": "sktmatheus",
+      "tags": {
+        "badges": null,
+        "color": "#8A2BE2",
+        "display-name": "sktmatheus",
+        "emotes": {
+          "41": [
+            [5, 12]
+          ]
+        },
+        "id": "372e6c93-7923-4b06-b2d4-849bf9ce0392",
+        "mod": false,
+        "room-id": "24538518",
+        "subscriber": false,
+        "turbo": false,
+        "user-id": "82197703",
+        "user-type": null
+      },
+      "color": "#8A2BE2"
+    },
+    "links": {
+      "self": "/rechat-message/chat-30-2016:AVYgbjzrcAvq2YB7ToVc"
+    }
+  }, {
+    "type": "rechat-message",
+    "id": "chat-30-2016:AVYgbkYJeGJLui5muGx6",
+    "attributes": {
+      "command": "",
+      "room": "c9sneaky",
+      "timestamp": 1469422896351,
+      "deleted": false,
+      "message": "k",
+      "from": "radiatedruffles",
+      "tags": {
+        "badges": null,
+        "color": "#008000",
+        "display-name": "Radiatedruffles",
+        "emotes": null,
+        "id": "fe6ad623-b8c4-4a4b-aa6b-a9faf324ef0d",
+        "mod": false,
+        "room-id": "24538518",
+        "sent-ts": "1469422909869",
+        "subscriber": false,
+        "tmi-sent-ts": "1469422910824",
+        "turbo": false,
+        "user-id": "71841297",
+        "user-type": null
+      },
+      "color": "#008000"
+    },
+    "links": {
+      "self": "/rechat-message/chat-30-2016:AVYgbkYJeGJLui5muGx6"
+    }
+  }, {
+    "type": "rechat-message",
+    "id": "chat-30-2016:AVYgbkYKeGJLui5muG4Z",
+    "attributes": {
+      "command": "",
+      "room": "c9sneaky",
+      "timestamp": 1469422897310,
+      "deleted": false,
+      "message": "hey i did his mom 2",
+      "from": "durrrr_gg",
+      "tags": {
+        "badges": null,
+        "color": "#FF0000",
+        "display-name": "Durrrr_gg",
+        "emotes": null,
+        "id": "a27f8b3b-2f2a-438a-bb5f-79a623137e4e",
+        "mod": false,
+        "room-id": "24538518",
+        "subscriber": false,
+        "turbo": false,
+        "user-id": "48882165",
+        "user-type": null
+      },
+      "color": "#FF0000"
+    },
+    "links": {
+      "self": "/rechat-message/chat-30-2016:AVYgbkYKeGJLui5muG4Z"
+    }
+  }, {
+    "type": "rechat-message",
+    "id": "chat-30-2016:AVYgbkYKeGJLui5muG7J",
+    "attributes": {
+      "command": "",
+      "room": "c9sneaky",
+      "timestamp": 1469422897743,
+      "deleted": false,
+      "message": "sneakys dad is boosted",
+      "from": "camoz20",
+      "tags": {
+        "badges": null,
+        "color": "#008000",
+        "display-name": "Camoz20",
+        "emotes": null,
+        "id": "33be7a45-cfed-4d1b-8d35-cea7d2e706e9",
+        "mod": false,
+        "room-id": "24538518",
+        "subscriber": false,
+        "turbo": false,
+        "user-id": "30556045",
+        "user-type": null
+      },
+      "color": "#008000"
+    },
+    "links": {
+      "self": "/rechat-message/chat-30-2016:AVYgbkYKeGJLui5muG7J"
+    }
+  }, {
+    "type": "rechat-message",
+    "id": "chat-30-2016:AVYgbkYKeGJLui5muG8N",
+    "attributes": {
+      "command": "",
+      "room": "c9sneaky",
+      "timestamp": 1469422897915,
+      "deleted": false,
+      "message": "!song",
+      "from": "dgknnmlky",
+      "tags": {
+        "badges": null,
+        "color": "#D2691E",
+        "display-name": "dgknnmlky",
+        "emotes": null,
+        "id": "2ba84ef6-ed0a-475f-81c9-e9157e8fd8a5",
+        "mod": false,
+        "room-id": "24538518",
+        "subscriber": false,
+        "turbo": false,
+        "user-id": "101185466",
+        "user-type": null
+      },
+      "color": "#D2691E"
+    },
+    "links": {
+      "self": "/rechat-message/chat-30-2016:AVYgbkYKeGJLui5muG8N"
+    }
+  }, {
+    "type": "rechat-message",
+    "id": "chat-30-2016:AVYgbkYKeGJLui5muG-0",
+    "attributes": {
+      "command": "",
+      "room": "c9sneaky",
+      "timestamp": 1469422898290,
+      "deleted": false,
+      "message": "@C9Sneaky You didnt read the words in the picture from the donation. It said \"so I dared P1 to beat TSM and he did it the absolute madman!\" FailFish",
+      "from": "dyruses_prison_warden",
+      "tags": {
+        "badges": "subscriber/1",
+        "color": "#00FF7F",
+        "display-name": "Dyruses_Prison_Warden",
+        "emotes": {
+          "360": [
+            [140, 147]
+          ]
+        },
+        "id": "9a063456-fd8c-4066-ab6f-9c307347c55c",
+        "mod": false,
+        "room-id": "24538518",
+        "subscriber": true,
+        "turbo": false,
+        "user-id": "74065754",
+        "user-type": null
+      },
+      "color": "#00FF7F"
+    },
+    "links": {
+      "self": "/rechat-message/chat-30-2016:AVYgbkYKeGJLui5muG-0"
+    }
+  }, {
+    "type": "rechat-message",
+    "id": "chat-30-2016:AVYgbk6xjvqG6PZK-WJ-",
+    "attributes": {
+      "command": "",
+      "room": "c9sneaky",
+      "timestamp": 1469422899063,
+      "deleted": false,
+      "message": "MY DING DING DONG",
+      "from": "zenority",
+      "tags": {
+        "badges": null,
+        "color": "#1E90FF",
+        "display-name": "Zenority",
+        "emotes": null,
+        "id": "fc163300-1e07-40a4-aedc-cf3e8533fc75",
+        "mod": false,
+        "room-id": "24538518",
+        "subscriber": false,
+        "turbo": false,
+        "user-id": "51427843",
+        "user-type": null
+      },
+      "color": "#1E90FF"
+    },
+    "links": {
+      "self": "/rechat-message/chat-30-2016:AVYgbk6xjvqG6PZK-WJ-"
+    }
+  }, {
+    "type": "rechat-message",
+    "id": "chat-30-2016:AVYgbk6xjvqG6PZK-WMA",
+    "attributes": {
+      "command": "",
+      "room": "c9sneaky",
+      "timestamp": 1469422899289,
+      "deleted": false,
+      "message": "sneaky ur a cuckold",
+      "from": "mankeeeyyz",
+      "tags": {
+        "badges": null,
+        "color": null,
+        "display-name": "Mankeeeyyz",
+        "emotes": null,
+        "id": "3fbb8a56-203b-4bf3-9b1e-97d0d67a8abf",
+        "mod": false,
+        "room-id": "24538518",
+        "subscriber": false,
+        "turbo": false,
+        "user-id": "87774984",
+        "user-type": null
+      },
+      "color": null
+    },
+    "links": {
+      "self": "/rechat-message/chat-30-2016:AVYgbk6xjvqG6PZK-WMA"
+    }
+  }, {
+    "type": "rechat-message",
+    "id": "chat-30-2016:AVYgbk6yjvqG6PZK-WQC",
+    "attributes": {
+      "command": "",
+      "room": "c9sneaky",
+      "timestamp": 1469422899847,
+      "deleted": false,
+      "message": "VoteYea VoteNay New sadness test: should you kill yourself ? âŽ FeelsGoodMan",
+      "from": "vulvanomics",
+      "tags": {
+        "badges": null,
+        "color": "#FF69B4",
+        "display-name": "Vulvanomics",
+        "emotes": {
+          "106293": [
+            [0, 6]
+          ],
+          "106294": [
+            [8, 14]
+          ]
+        },
+        "id": "d9ce6f68-401b-4bb8-b078-4f383b9f99ce",
+        "mod": false,
+        "room-id": "24538518",
+        "subscriber": false,
+        "turbo": false,
+        "user-id": "44859782",
+        "user-type": null
+      },
+      "color": "#FF69B4"
+    },
+    "links": {
+      "self": "/rechat-message/chat-30-2016:AVYgbk6yjvqG6PZK-WQC"
+    }
+  }, {
+    "type": "rechat-message",
+    "id": "chat-30-2016:AVYgblbjcAvq2YB7Tol0",
+    "attributes": {
+      "command": "",
+      "room": "c9sneaky",
+      "timestamp": 1469422901270,
+      "deleted": false,
+      "message": "VoteYea VoteNay New sadness test: should you kill yourself ? âŽ FeelsGoodMan",
+      "from": "radiatedruffles",
+      "tags": {
+        "badges": null,
+        "color": "#008000",
+        "display-name": "Radiatedruffles",
+        "emotes": {
+          "106293": [
+            [0, 6]
+          ],
+          "106294": [
+            [8, 14]
+          ]
+        },
+        "id": "edd78983-cf58-4983-8a0f-5898999b6f52",
+        "mod": false,
+        "room-id": "24538518",
+        "subscriber": false,
+        "turbo": false,
+        "user-id": "71841297",
+        "user-type": null
+      },
+      "color": "#008000"
+    },
+    "links": {
+      "self": "/rechat-message/chat-30-2016:AVYgblbjcAvq2YB7Tol0"
+    }
+  }, {
+    "type": "rechat-message",
+    "id": "chat-30-2016:AVYgblbjcAvq2YB7TorS",
+    "attributes": {
+      "command": "",
+      "room": "c9sneaky",
+      "timestamp": 1469422902013,
+      "deleted": false,
+      "message": "LUL only real LULer can build this perfect pyramid LUL LUL . Try like me !Try like me ! Try like me !! LUL LUL LUL And my pyramid still higher!!!!!! LUL LUL LUL LUL",
+      "from": "warlocksshadow",
+      "tags": {
+        "badges": null,
+        "color": "#1E90FF",
+        "display-name": "WarlocksShadow",
+        "emotes": null,
+        "id": "49024d96-013e-46c3-98a2-7e769d083312",
+        "mod": false,
+        "room-id": "24538518",
+        "subscriber": false,
+        "turbo": false,
+        "user-id": "59003833",
+        "user-type": null
+      },
+      "color": "#1E90FF"
+    },
+    "links": {
+      "self": "/rechat-message/chat-30-2016:AVYgblbjcAvq2YB7TorS"
+    }
+  }, {
+    "type": "rechat-message",
+    "id": "chat-30-2016:AVYgblbjcAvq2YB7TouT",
+    "attributes": {
+      "command": "",
+      "room": "c9sneaky",
+      "timestamp": 1469422902388,
+      "deleted": false,
+      "message": "WHO FED JINX LOL",
+      "from": "waters_2012",
+      "tags": {
+        "badges": null,
+        "color": null,
+        "display-name": "waters_2012",
+        "emotes": null,
+        "id": "f245fc4c-f70f-45fb-841e-dbadf1db253a",
+        "mod": false,
+        "room-id": "24538518",
+        "subscriber": false,
+        "turbo": false,
+        "user-id": "117997722",
+        "user-type": null
+      },
+      "color": null
+    },
+    "links": {
+      "self": "/rechat-message/chat-30-2016:AVYgblbjcAvq2YB7TouT"
+    }
+  }],
+  "meta": {
+    "next": null
+  }
 }

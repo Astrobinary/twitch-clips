@@ -55,7 +55,8 @@ module.exports = require('./webpack.base.babel')({
     }),
     postcssReporter({ // Posts messages from plugins to the terminal
       clearMessages: true,
-    }), precss,
+    }),
+    precss(),
   ],
 
   // Tell babel that we want to hot-reload

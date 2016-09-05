@@ -1,7 +1,7 @@
 $mainBlue: #0fa5a5;
 $mainPink: rgb(237, 79, 116);
 $navBar: #4d688e;
-nav {
+.largeNav {
   width: 100%;
   height: 50px;
   background-color: $navBar;
@@ -96,11 +96,130 @@ nav {
     }
   }
 }
+.smallNav {
+  width: 100%;
+  height: 40px;
+  background-color: $navBar;
+  opacity: 0.8;
+  margin: 15px 0;
+  box-shadow: 0 4px 9px 0 rgba(0, 0, 0, 0.35);
+  border-bottom: 3px solid $mainBlue;
+  display: none;
+  .menu {
+    display: flex;
+    flex-direction: row;
+    margin: 0;
+    padding: 0;
+    div {
+      list-style: none;
+      flex-grow: 1;
+      text-align: center;
+      line-height: 40px;
+      color: white;
+      font-size: 0.55em;
+      flex-shrink: 2;
+      max-height: 40px;
+      letter-spacing: 2px;
+      user-select: none;
+    }
+    .link {
+      border-right: 1px solid rgba(0, 0, 0, 0.08);
+      transition: all 0.1s ease;
+      cursor: pointer;
+      img {
+        width: 25px;
+      }
+      &:hover {
+        border-bottom: 3px solid $mainPink;
+        background-color: #486083;
+      }
+    }
+    .link_selected {
+      border-right: 1px solid rgba(0, 0, 0, 0.08);
+      transition: all 0.1s ease;
+      border-bottom: 3px solid $mainPink;
+      cursor: pointer;
+      img {
+        width: 25px;
+      }
+      &:hover {
+        background-color: #486083;
+      }
+    }
+    .logo_container {
+      flex-grow: 0;
+      height: 40px;
+      background-color: #0fa5a5;
+      transition: all 0.2s ease-in-out;
+      cursor: pointer;
+      &:hover {
+        background-color: #13bcbc;
+        cursor: pointer;
+      }
+      .logo {
+        height: 25px;
+        width: 50px;
+        transition: all 0.2s ease-in-out;
+      }
+    }
+    .inputBox {
+      flex-grow: 3;
+      flex-basis: 10em;
+      flex-shrink: 5;
+      .svgIcon {
+        width: 17px;
+        display: inline-flex;
+      }
+      input {
+        background-color: rgba(66, 79, 99, 0.3);
+        font-family: 'Montserrat', sans-serif;
+        width: 75%;
+        color: white;
+        height: 25px;
+        margin: 0 10px;
+        border: 2px solid transparent;
+        padding: 0 5px;
+        &:focus {
+          outline: none;
+          border: 2px solid $mainBlue;
+        }
+      }
+    }
+    button {
+      width: 150px;
+      background-color: rgb(237, 79, 116);
+      color: white;
+      transition: all 0.2s ease-in-out;
+      font-family: 'Montserrat', sans-serif;
+      font-size: 0.8em;
+      .svgIcon {
+        width: 17px;
+        margin-right: 5px;
+      }
+    }
+  }
+}
 @media screen and (max-width: 940px) {
+  .largeNav {
+    //display: none;
+  }
+  .smallNav {
+    //display: block;
+  }
   .inputBox {
     display: none;
   }
   button {
     display: none;
   }
+}
+
+@media screen and (max-width: 480px) {
+  .largeNav {
+    display: none;
+  }
+  .smallNav {
+    display: block;
+  }
+
 }

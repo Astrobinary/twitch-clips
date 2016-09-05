@@ -1,33 +1,27 @@
 import React from 'react';
-
 import styles from './styles.css';
+import Item from 'components/Item';
 
-function List(props) {
-  const ComponentToRender = props.component;
-  let content = (<div></div>);
-
-  // If we have items, render them
-  if (props.items) {
-    content = props.items.map((item, index) => (
-      <ComponentToRender key={`item-${index}`} item={item} />
-    ));
-  } else {
-    // Otherwise render a single component
-    content = (<ComponentToRender />);
+class List extends React.Component { // eslint-disable-line react/prefer-stateless-function
+  render() {
+      const streamers = this.props.data.map((streamer, index) => { //eslint-disable-line
+        return <Item streamer={streamer} key={index} />;
+      });
+    return (
+      <div className={styles.list}>
+        {streamers}
+      </div>
+    );
   }
-
-  return (
-    <div className={styles.listWrapper}>
-      <ul className={styles.list}>
-        {content}
-      </ul>
-    </div>
-  );
 }
 
+
 List.propTypes = {
-  component: React.PropTypes.func.isRequired,
-  items: React.PropTypes.array,
+  names: React.PropTypes.array,
+  avatars: React.PropTypes.array,
+  dispatch: React.PropTypes.func,
 };
+
+
 
 export default List;

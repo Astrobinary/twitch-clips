@@ -5,7 +5,7 @@ import styles from './styles.css';
 
 function Footer(props) {
   const feedRoute = () => {
-    props.dispatch(push('/feed'));
+    props.dispatch(push('/'));
   };
   const streamersRoute = () => {
     props.dispatch(push('/streamers'));

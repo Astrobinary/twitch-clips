@@ -5,30 +5,28 @@ $navBar: #4d688e;
   margin: 0;
   padding: 0;
 }
-body,
-html {
+body, html {
   height: 100%;
   width: 100%;
-  z-index: -2;
+  /*z-index: -2;*/
   position: relative;
 }
 body {
   font-family: 'Montserrat', sans-serif;
-
-}
-body.fontLoaded {
-  font-family: 'Montserrat', sans-serif;
-}
-:global(#app) {
   background-image: url('./background-min.jpg');
   background-attachment: fixed;
   background-size: cover;
   background-repeat: no-repeat;
   min-height: 100%;
   min-width: 100%;
-  z-index: -100;
+  /*z-index: -100;*/
   position: relative;
+  background-color: #081e46;
 }
+body.fontLoaded {
+  font-family: 'Montserrat', sans-serif;
+}
+
 .wrapper {
   max-width: 1400px;
   margin: 0 auto;
@@ -37,7 +35,6 @@ body.fontLoaded {
   padding: 0 16px;
   flex-direction: column;
 }
-
 footer {
   height: 30px;
   width: 100%;

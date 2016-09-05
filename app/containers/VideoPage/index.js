@@ -1,41 +1,45 @@
 import React from 'react';
 import { connect } from 'react-redux';
-import Helmet from 'react-helmet';
 import styles from './styles.css';
 
-import Video from 'components/Video';
+import selectVideo from './selectors';
+
+import Clip from 'components/Clip';
 import Chat from 'components/Chat';
-import Streamer from 'components/Streamer';
+import StreamerInfo from 'components/StreamerInfo';
+
+import { defaultAction } from './actions';
 
 
 export class VideoPage extends React.Component { // eslint-disable-line react/prefer-stateless-function
+
   render() {
     return (
       <div className={styles.videoPage}>
-        <Helmet
-          title="VideoPage"
-          meta={[{ name: 'description', content: 'Description of VideoPage' }]}
-        />
-
         <div id="clappr" className={styles.videoContain}>
-          <Video />
+          <Clip />
         </div>
         <div className={styles.chatContain}>
-          <div className={styles.chatTitle}>twitch chat</div>
+          <div className={styles.chatTitle} onClick={this.props.random}>twitch chat</div>
           <Chat />
-          <Streamer />
+          <StreamerInfo />
         </div>
-
       </div>
     );
   }
 }
 
+VideoPage.propTypes = {
+  random: React.PropTypes.func,
+  test: React.PropTypes.func,
+};
+
+const mapStateToProps = selectVideo();
 
 function mapDispatchToProps(dispatch) {
   return {
-    dispatch,
+    random: () => dispatch(defaultAction()),
   };
 }
 
-export default connect(mapDispatchToProps)(VideoPage);
+export default connect(mapStateToProps, mapDispatchToProps)(VideoPage);

@@ -39,7 +39,8 @@ module.exports = require('./webpack.base.babel')({
     }),
     postcssReporter({
       clearMessages: true,
-    }), precss,
+    }),
+    precss(),
   ],
   plugins: [
     new webpack.optimize.CommonsChunkPlugin({

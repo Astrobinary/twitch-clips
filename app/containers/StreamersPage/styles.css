@@ -1,4 +1,63 @@
 .streamersPage {
-  /* stylelint-ignore */
-  
+  /* stylelint-disable */
+  .loading {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    height: 25vh;
+    img {
+      width: 20%;
+    }
+  }
+  .search {
+    margin-left: 10px;
+    margin-bottom: 45px;
+    img {
+      width: 20px;
+      display: inline-block;
+      margin-right: 10px;
+    }
+    input {
+      background-color: rgba(66, 79, 99, 0.3);
+      font-family: 'Montserrat', sans-serif;
+      width: 300px;
+      color: white;
+      height: 25px;
+      border: 2px solid transparent;
+      padding: 0 5px;
+      font-size: 0.8em;
+      letter-spacing: 1px;
+      &:focus {
+        outline: none;
+        outline: 2px solid rgb(15, 164, 164);
+      }
+    }
+  }
+  .more {
+    text-align: center;
+    background-color: rgba(76, 103, 142, 0.5);
+    width: 200px;
+    height: 35px;
+    line-height: 35px;
+    border-bottom: 3px solid #ed4f74;
+    margin: 0 auto 75px;
+    color: white;
+    font-size: 0.7em;
+    letter-spacing: 1px;
+  }
+}
+@media screen and (max-width: 480px) {
+  .streamersPage {
+    .search {
+      margin-bottom: 25px;
+      margin-left: 0px;
+      img {
+        display: none;
+      }
+      input {
+        width: 100%;
+      }
+    }
+  }
 }

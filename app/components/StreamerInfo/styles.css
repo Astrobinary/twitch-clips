@@ -1,0 +1,115 @@
+/* stylelint-ignore */
+.streamerInfo {
+  width: 100%;
+  max-height: 64px;
+  margin-top: 8px;
+  display: flex;
+  flex-wrap: wrap;
+  .avatar {
+    height: 20.346%;
+    box-shadow: 0 4px 9px 0 rgba(0, 0, 0, 0.35);
+    transition: all 0.2s ease-in-out;
+    cursor: pointer;
+  }
+  .buttons {
+    width: calc(100% - 64px);
+    display: flex;
+    flex-wrap: wrap;
+    height: 100%;
+    transition: all 0.2s ease-in-out;
+    div {
+      height: 30px;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      padding: 0 5px;
+      cursor: pointer;
+      transition: all 0.3s ease-in-out;
+    }
+    .streamerName {
+      background-color: rgba(76, 103, 142,0.8);
+      margin: 0 0 5px 5px;
+      width: 71%;
+      color: white;
+      line-height: 30px;
+      font-size: 0.8em;
+      text-align: center;
+      letter-spacing: 1px;
+      flex-grow: 1;
+      flex-shrink: 4;
+      box-shadow: 0 4px 9px 0 rgba(0, 0, 0, 0.35);
+      &:hover {
+        background-color: rgb(71, 96, 132);
+      }
+    }
+    .clips {
+      background-color: rgba(76, 103, 142,0.8);
+      margin: 0 0 5px 5px;
+      width: 23%;
+      text-align: center;
+      color: white;
+      line-height: 30px;
+      font-size: 0.7em;
+      // flex-grow: 1;
+      box-shadow: 0 4px 9px 0 rgba(0, 0, 0, 0.35);
+    }
+    .follow {
+      background-color: rgba(237, 79, 116,0.8);
+      margin: 0 0 5px 5px;
+      width: 71%;
+      color: white;
+      line-height: 30px;
+      font-size: 0.8em;
+      text-align: center;
+      letter-spacing: 1px;
+      flex-grow: 1;
+      flex-shrink: 4;
+      box-shadow: 0 4px 9px 0 rgba(0, 0, 0, 0.35);
+      &:hover {
+        background-color: rgb(202, 75, 104);
+      }
+      img {
+        height: 15px;
+        padding-right: 5px;
+        margin-top: -5px;
+      }
+    }
+    .followAmmount {
+      background-color: rgba(76, 103, 142,0.8);
+      margin: 0 0 5px 5px;
+      width: 23%;
+      text-align: center;
+      color: white;
+      line-height: 30px;
+      font-size: 0.7em;
+      // flex-grow: 1;
+      box-shadow: 0 4px 9px 0 rgba(0, 0, 0, 0.35);
+    }
+  }
+}
+@media screen and (max-width: 1033px) {
+  .streamer {
+    font-size: 0.9em;
+    .buttons {
+      .clips {
+        display: none;
+      }
+      .followAmmount {
+        display: none;
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 940px) {
+  .streamer{
+    margin-bottom: 30px;
+    .buttons {
+      .clips {
+        display: block;
+      }
+      .followAmmount {
+        display: block;
+      }
+    }
+  }
+}
