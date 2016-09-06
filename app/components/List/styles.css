@@ -2,4 +2,6 @@
   display: flex;
   flex-wrap: wrap;
   text-align: center;
+  transition: all 0.2s ease-in-out;
+
 }

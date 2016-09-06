@@ -19,7 +19,6 @@ body {
   background-repeat: no-repeat;
   min-height: 100%;
   min-width: 100%;
-  /*z-index: -100;*/
   position: relative;
   background-color: #081e46;
 }
@@ -61,4 +60,12 @@ footer {
       }
     }
   }
+}
+
+
+@media screen and (max-width: 480px) {
+  body{
+    background-image: url('./background-mobile.jpg');
+  }
+
 }

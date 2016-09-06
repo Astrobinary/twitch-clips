@@ -200,12 +200,6 @@ $navBar: #4d688e;
   }
 }
 @media screen and (max-width: 940px) {
-  .largeNav {
-    //display: none;
-  }
-  .smallNav {
-    //display: block;
-  }
   .inputBox {
     display: none;
   }

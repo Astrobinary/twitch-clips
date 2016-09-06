@@ -11,6 +11,7 @@
     font-size: 1em;
     position: relative;
     box-shadow: 0 4px 9px 0 rgba(0, 0, 0, 0.35);
+    border: 0.5px solid rgba(0, 0, 0, 0.39);
   }
   span {
     display: inline-flex;
@@ -18,20 +19,17 @@
     max-width: 100%;
     white-space: nowrap;
     cursor: pointer;
-    .gradient {
-      position: absolute;
-      height: 150px;
-      background: transparent;
-      transition: all 0.1s ease-in-out;
-      border-bottom: 3px solid #0fa5a5;
-      &:hover {
-        background: linear-gradient(to bottom, rgba(0,0,0,0) 0%,rgba(0,0,0,0.65) 100%);
-      }
+    border-bottom: 3px solid #0fa5a5;
+    transition: all 0.3s ease-in-out;
+    &:hover{
+    border-bottom: 3px solid #ed4f74;
+
     }
     img {
       width: 150px;
       height: 150px;
       z-index: -1;
+      background: #17426f;
     }
     div {
       background-color: rgba(76, 103, 142, 0.5);
@@ -45,6 +43,8 @@
       text-overflow: ellipsis;
       padding: 0 10px;
       width: 100%;
+      margin-top: -30px;
+      text-shadow: 0px 0px 1px #333333;
     }
   }
 }
@@ -75,17 +75,17 @@
       width: 75px !important;
     }
     span {
-      .gradient {
-        height: 75px !important;
-      }
+
       img {
         height: 75px !important;
         width: 75px !important;
       }
       div {
         font-size: 0.55em !important;
-        height: 25px !important;
+        height: 20px !important;
         line-height: 25px !important;
+        margin-top: -20px;
+
       }
     }
   }

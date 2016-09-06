@@ -12,7 +12,7 @@
   }
   .search {
     margin-left: 10px;
-    margin-bottom: 45px;
+    margin-bottom: 40px;
     img {
       width: 20px;
       display: inline-block;
@@ -24,10 +24,11 @@
       width: 300px;
       color: white;
       height: 25px;
-      border: 2px solid transparent;
+      border: 2px solid rgba(0, 0, 0, 0.05);
       padding: 0 5px;
       font-size: 0.8em;
       letter-spacing: 1px;
+      transition: all 0.2s ease-in;
       &:focus {
         outline: none;
         outline: 2px solid rgb(15, 164, 164);

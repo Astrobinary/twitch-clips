@@ -22,7 +22,6 @@ class Item extends React.Component { // eslint-disable-line react/prefer-statele
         <div className={styles.streamer}>
           <LazyLoad height="100%" >
             <span onClick={this.streamerLink}>
-              <div className={styles.gradient}></div>
               <img className={styles.avatar} src={this.props.streamer.avatar === undefined ? avatar : this.props.streamer.avatar} alt={`${this.props.streamer.name}'s avatar`}></img>
               <div className={styles.sub}>{this.props.streamer.name}</div>
             </span>

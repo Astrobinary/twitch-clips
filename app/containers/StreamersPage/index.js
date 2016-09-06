@@ -40,7 +40,11 @@ export class StreamersPage extends React.Component { // eslint-disable-line reac
 
     let limitStreamers = [];
     if (this.state.search === null || this.state.search === '') {
-      limitStreamers = this.props.streamers.slice(0, 50);
+      if (/Android|webOS|iPhone|iPad|BlackBerry|Windows Phone|Opera Mini|IEMobile|Mobile/i.test(navigator.userAgent)) {
+        limitStreamers = this.props.streamers.slice(0, 50);
+      } else {
+        limitStreamers = this.props.streamers.slice(0, 150);
+      }
     } else {
       limitStreamers = this.props.streamers;
     }
@@ -55,7 +59,7 @@ export class StreamersPage extends React.Component { // eslint-disable-line reac
       content = <List data={filterStreamers} />;
     }
 
-    if (limitStreamers.length === 50) {
+    if (this.state.search === '' && !this.props.loading) {
       more = <div className={styles.more} onClick={this.foucsInput}>search for more</div>;
     }
     return (
